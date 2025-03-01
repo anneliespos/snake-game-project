@@ -1,0 +1,1 @@
+Snake game: you will grow when you eat the food, but the game ends if you hit the wall or your own tail. NB: I made this project as a part of the udemy course "100 days of code", so it is not my original idea.
